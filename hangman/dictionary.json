@@ -1,0 +1,30 @@
+{
+  "game_words": [
+    {
+      "category": "Animals",
+      "words": ["alligator", "ant", "bear", "camel", "cat", "cheetah",
+        "chicken", "chimpanzee", "cow", "crocodile", "deer", "dog", "dolphin",
+        "duck", "eagle", "elephant", "fish", "fly", "fox", "frog", "giraffe",
+        "goat", "goldfish", "hamster", "hippopotamus", "horse", "kangaroo",
+        "kitten", "leapard", "lion", "lizard", "lizard", "lobster", "monkey",
+        "octopus", "ostrich", "otter", "owl" ,"oyster", "panda", "parrot",
+        "panda", "parrot", "pelican", "pig", "pigeon", "porcupine", "puppy",
+        "rabbit", "rat", "reindeer", "rhinoceros", "rooster", "scorpion",
+        "seal", "shark", "sheep", "shrimp", "snail", "snake", "sparrow",
+        "spider", "squid", "squirre", "swan", "tiger", "toad", "tortoise",
+        "turtle", "vulture", "walrus", "weasel", "whale", "wolf", "zebra"]
+    },
+    {
+      "category": "Food",
+      "words": ["bagel", "bread", "cereal", "cheese", "croissant", "egg",
+        "fish", "ketchup", "mayonnaise", "noodles", "pancakes", "pasta",
+        "peanuts", "rice", "salad", "sandwich", "toast"]
+    },
+    {
+      "category": "Sports",
+      "words": ["athletics", "baseball", "basketball", "bowling", "cycling",
+         "football", "golf", "gymnastics", "handball", "hockey", "jogging",
+         "polo", "rugby", "skiing", "soccer", "softball", "squash", "swimming",
+         "tennis", "volleyball"]
+    }]
+  }
